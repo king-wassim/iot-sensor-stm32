@@ -11,6 +11,3 @@ Système de monitoring temps réel : STM32F4 + ESP8266 → ThingSpeak
 
 ## Architecture
 STM32 → UART2 (DMA) → ESP8266 → WiFi → ThingSpeak
-
-## Demo
-[screenshot ou gif ici]
