@@ -5,7 +5,7 @@
 Système de monitoring temps réel : STM32F4 + ESP8266 → ThingSpeak
 
 ## Hardware
-- STM32F411 (ou ton modèle exact)
+- STM32F407
 - ESP8266 WiFi module
 - Capteur analogique sur PA1 (ADC1 CH1)
 
